@@ -1,3 +1,5 @@
 gitの練習
 基本的なワークフローを学ぶよ
 .txtに変更
+.git add
+.git commit
